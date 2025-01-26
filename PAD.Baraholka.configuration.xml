@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EffectID>3312</EffectID>
+  <freezeImage>0.3</freezeImage>
+  <baraholkas>
+    <TBaraholka flag="1322" Name="Барахт" Description="Барахолка. Улучшения. Ремонт.">
+      <Baraholka>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="41351" ETrade="Count" value="4" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="18752" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+			  <Group>freedom1</Group>
+			  <Group>freedom2</Group>
+			  <Group>freedom3</Group>
+			  <Group>freedom4</Group>
+			  <Group>freedom5</Group>
+			  <Group>freedom6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="5" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="5" DescEnable="false" />
+				  <TBTrade _ItemID="16000" ETrade="Count" value="5" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="47271" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>freedom1</Group>
+			  <Group>freedom2</Group>
+			  <Group>freedom3</Group>
+			  <Group>freedom4</Group>
+			  <Group>freedom5</Group>
+			  <Group>freedom6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="16056" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="7852" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="3" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="36167" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>freedom1</Group>
+			  <Group>freedom2</Group>
+			  <Group>freedom3</Group>
+			  <Group>freedom4</Group>
+			  <Group>freedom5</Group>
+			  <Group>freedom6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="4" DescEnable="false" />
+				  <TBTrade _ItemID="14216" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="4" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14219" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>freedom1</Group>
+			  <Group>freedom2</Group>
+			  <Group>freedom3</Group>
+			  <Group>freedom4</Group>
+			  <Group>freedom5</Group>
+			  <Group>freedom6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="14080" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14082" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>freedom1</Group>
+			  <Group>freedom2</Group>
+			  <Group>freedom3</Group>
+			  <Group>freedom4</Group>
+			  <Group>freedom5</Group>
+			  <Group>freedom6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="34506" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="44503" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>freedom1</Group>
+			  <Group>freedom2</Group>
+			  <Group>freedom3</Group>
+			  <Group>freedom4</Group>
+			  <Group>freedom5</Group>
+			  <Group>freedom6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="14082" ETrade="Count" value="5" DescEnable="false" />
+				  <TBTrade _ItemID="7852" ETrade="Count" value="15" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="10" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="24094" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>duty1</Group>
+			  <Group>duty2</Group>
+			  <Group>duty3</Group>
+			  <Group>duty4</Group>
+			  <Group>duty5</Group>
+			  <Group>duty6</Group>
+			  <Group>duty7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="14219" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="44534" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="12018" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14216" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>duty1</Group>
+			  <Group>duty2</Group>
+			  <Group>duty3</Group>
+			  <Group>duty4</Group>
+			  <Group>duty5</Group>
+			  <Group>duty6</Group>
+			  <Group>duty7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="12003" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="14082" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="17654" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14216" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>duty3</Group>
+			  <Group>duty4</Group>
+			  <Group>duty5</Group>
+			  <Group>duty6</Group>
+			  <Group>duty7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="31261" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="44503" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="18959" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="20038" ETrade="Count" value="5" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="5" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="34506" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>duty3</Group>
+			  <Group>duty4</Group>
+			  <Group>duty5</Group>
+			  <Group>duty6</Group>
+			  <Group>duty7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="16042" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="12005" ETrade="Count" value="5" DescEnable="false" />
+				  <TBTrade _ItemID="21284" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="20038" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="3" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="31751" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>duty6</Group>
+			  <Group>duty7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="31261" ETrade="Count" value="10" DescEnable="true" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="10" DescEnable="true" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14098" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>duty6</Group>
+			  <Group>duty7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="20038" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="10" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="19978" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sop1</Group>
+			  <Group>sop2</Group>
+			  <Group>sop3</Group>
+			  <Group>sop4</Group>
+			  <Group>sop5</Group>
+			  <Group>sop6</Group> 
+			  <Group>sop7</Group> 
+			  <Group>sop8</Group>
+			  <Group>voenstal_sop</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="17201" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="39628" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="17649" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="33131" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="33138" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14144" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sop2</Group>
+			  <Group>sop3</Group>
+			  <Group>sop4</Group>
+			  <Group>sop5</Group>
+			  <Group>sop6</Group>
+			  <Group>sop7</Group>
+			  <Group>sop8</Group>
+			  <Group>voenstal_sop</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="44577" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="20038" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="33131" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="33138" ETrade="Count" value="2" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="44542" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sop6</Group>
+			  <Group>voenstal_sop</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="44503" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="18959" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="7" DescEnable="false" />
+				  <TBTrade _ItemID="20038" ETrade="Count" value="7" DescEnable="false" />
+				  <TBTrade _ItemID="33131" ETrade="Count" value="4" DescEnable="false" />
+				  <TBTrade _ItemID="33138" ETrade="Count" value="4" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="17878" ETrade="Count" value="4" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sop5</Group>
+			  <Group>sop6</Group>
+			  <Group>sop7</Group>
+			  <Group>sop8</Group>
+			  <Group>voenstal_sop</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="44503" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="18959" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="20035" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="20038" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="33131" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="33138" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="17003" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="19978" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit1</Group>
+			  <Group>bandit2</Group>
+			  <Group>bandit3</Group>
+			  <Group>bandit4</Group>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="17873" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="17003" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="17654" ETrade="Count" value="4" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit1</Group>
+			  <Group>bandit2</Group>
+			  <Group>bandit3</Group>
+			  <Group>bandit4</Group>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <Group>bandit7</Group>  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="17873" ETrade="Count" value="4" DescEnable="false" />
+				  <TBTrade _ItemID="17003" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="44534" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit4</Group>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <Group>bandit7</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="17873" ETrade="Count" value="8" DescEnable="false" />
+				  <TBTrade _ItemID="14091" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="17003" ETrade="Count" value="4" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="18959" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit4</Group>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <Group>bandit7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="12" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="12" DescEnable="false" />
+				  <TBTrade _ItemID="17873" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="17003" ETrade="Count" value="5" DescEnable="false" />
+				  <TBTrade _ItemID="14091" ETrade="Count" value="3" DescEnable="false" />
+				  <TBTrade _ItemID="17654" ETrade="Count" value="5" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="25002" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <Group>bandit7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="20" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="20" DescEnable="false" />
+				  <TBTrade _ItemID="17914" ETrade="Count" value="2" DescEnable="false" />
+				  <TBTrade _ItemID="14098" ETrade="Count" value="2" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="28020" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <Group>bandit7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="17914" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="14098" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="28021" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <Group>bandit7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="17914" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="14098" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="55221" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="33090" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>bandit5</Group>
+			  <Group>bandit6</Group>
+			  <Group>bandit7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="20036" ETrade="Count" value="10" DescEnable="false" />
+				  <TBTrade _ItemID="17914" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="14098" ETrade="Count" value="1" DescEnable="false" />
+				  <TBTrade _ItemID="55221" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="33091" ETrade="Count" value="2" DescEnable="false" />
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>posled1</Group>
+			  <Group>posled2</Group>
+			  <Group>posled3</Group>
+			  <Group>posled4</Group>
+			  <Group>posled5</Group>
+			  <Group>posled6</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="1" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="17622" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>posled1</Group>
+			  <Group>posled2</Group>
+			  <Group>posled3</Group>
+			  <Group>posled4</Group>
+			  <Group>posled5</Group>
+			  <Group>posled6</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="1" DescEnable="false" />				  
+    		  <TBTrade _ItemID="7460" ETrade="Count" value="1" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="17622" ETrade="Count" value="1" DescEnable="false" />  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>mercenary1</Group>
+			  <Group>mercenary2</Group>
+			  <Group>mercenary3</Group>
+			  <Group>mercenary4</Group>
+			  <Group>mercenary5</Group>
+			  <Group>mercenary6</Group>			  
+			  <Group>mercenary7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="2" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="41174" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>posled1</Group>
+			  <Group>posled2</Group>
+			  <Group>posled3</Group>
+			  <Group>posled4</Group>
+			  <Group>posled5</Group>
+			  <Group>posled6</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="3" DescEnable="false" />		  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="3" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="41154" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>posled1</Group>
+			  <Group>posled2</Group>
+			  <Group>posled3</Group>
+			  <Group>posled4</Group>
+			  <Group>posled5</Group>
+			  <Group>posled6</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="9" DescEnable="false" />				  				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="9" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="9" DescEnable="false" />
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="34080" ETrade="Count" value="1" DescEnable="false" />	  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>posled1</Group>
+			  <Group>posled2</Group>
+			  <Group>posled3</Group>
+			  <Group>posled4</Group>
+			  <Group>posled5</Group>
+			  <Group>posled6</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="2" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="34081" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sky2</Group>
+			  <Group>sky3</Group>
+			  <Group>sky4</Group>
+			  <Group>sky5</Group>
+			  <Group>sky6</Group>
+			  <Group>sky7</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="1" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="1" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14206" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sky2</Group>
+			  <Group>sky3</Group>
+			  <Group>sky4</Group>
+			  <Group>sky5</Group>
+			  <Group>sky6</Group>
+			  <Group>sky7</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="3" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14389" ETrade="Count" value="1" DescEnable="false" />			  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sky2</Group>
+			  <Group>sky3</Group>
+			  <Group>sky4</Group>
+			  <Group>sky5</Group>
+			  <Group>sky6</Group>
+			  <Group>sky7</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="3" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="38535" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sky2</Group>
+			  <Group>sky3</Group>
+			  <Group>sky4</Group>
+			  <Group>sky5</Group>
+			  <Group>sky6</Group>
+			  <Group>sky7</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="6" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="38535" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>sky2</Group>
+			  <Group>sky3</Group>
+			  <Group>sky4</Group>
+			  <Group>sky5</Group>
+			  <Group>sky6</Group>
+			  <Group>sky7</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="3" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="3" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="32203" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>monolith1</Group>
+			  <Group>monolith2</Group>
+			  <Group>monolith3</Group>
+			  <Group>monolith4</Group>
+			  <Group>monolith5</Group>
+			  <Group>monolith6</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="16094" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="16095" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="17541" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="16101" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="16096" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="16097" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="16094" ETrade="Count" value="20" DescEnable="false" />
+				  <TBTrade _ItemID="36032" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="16170" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="40861" ETrade="Count" value="20" DescEnable="false" />				  
+				  <TBTrade _ItemID="47264" ETrade="Count" value="20" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>mercenary1</Group>
+			  <Group>mercenary2</Group>
+			  <Group>mercenary3</Group>
+			  <Group>mercenary4</Group>
+			  <Group>mercenary5</Group>
+			  <Group>mercenary6</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="2" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="18981" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32203" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>tg1</Group>
+			  <Group>tg2</Group>
+			  <Group>tg3</Group>
+			  <Group>tg4</Group>
+			  <Group>tg5</Group>
+			  <Group>tg6</Group>
+			  <Group>tg7</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="2" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="33227" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32203" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32201" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="47281" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="47282" ETrade="Count" value="3" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>del1</Group>
+			  <Group>del2</Group>
+			  <Group>del3</Group>
+			  <Group>del4</Group>
+			  <Group>del5</Group>
+			  <Group>del6</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="2" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="19502" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32203" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32201" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="47281" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="47282" ETrade="Count" value="3" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>del1</Group>
+			  <Group>del2</Group>
+			  <Group>del3</Group>
+			  <Group>del4</Group>
+			  <Group>del5</Group>
+			  <Group>del6</Group>			  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="5" DescEnable="false" />		  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="5" DescEnable="false" />			  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="5" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="5" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="19508" ETrade="Count" value="1" DescEnable="false" />			  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>nii1</Group>
+			  <Group>nii2</Group>
+			  <Group>nii3</Group>
+			  <Group>nii4</Group>
+			  <Group>nii5</Group>
+			  <Group>nii6</Group>
+			  <Group>nii7</Group>		  
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="2" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="2" DescEnable="false" />			  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="2" DescEnable="false" />			  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14907" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32203" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="32201" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="47281" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="47282" ETrade="Count" value="3" DescEnable="false" />				  
+				  <TBTrade _ItemID="17638" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="34512" ETrade="Count" value="1" DescEnable="false" />				  
+				  <TBTrade _ItemID="34517" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>mercenary1</Group>
+			  <Group>mercenary2</Group>
+			  <Group>mercenary3</Group>
+			  <Group>mercenary4</Group>
+			  <Group>mercenary5</Group>
+			  <Group>mercenary6</Group>			  
+			  <Group>mercenary7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="6" DescEnable="false" />
+				  <TBTrade _ItemID="20032" ETrade="Count" value="6" DescEnable="false" />			  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="6" DescEnable="false" />			  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="6" DescEnable="false" />				  
+  			  <TBTrade _ItemID="20037" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="6" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="6" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="14248" ETrade="Count" value="1" DescEnable="false" />				  
+			  </items_Right>
+		  </TBReqCraft>
+		  <TBReqCraft>
+			  <Group>mercenary1</Group>
+			  <Group>mercenary2</Group>
+			  <Group>mercenary3</Group>
+			  <Group>mercenary4</Group>
+			  <Group>mercenary5</Group>
+			  <Group>mercenary6</Group>			  
+			  <Group>mercenary7</Group>
+			  <items_Left>
+				  <TBTrade _ItemID="7852" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20036" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20038" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20035" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20037" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20032" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20031" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="20039" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="32946" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="45399" ETrade="Count" value="5" DescEnable="false" />				  
+				  <TBTrade _ItemID="7460" ETrade="Count" value="5" DescEnable="false" />				  
+			  </items_Left>
+			  <items_Right>
+				  <TBTrade _ItemID="55226" ETrade="Count" value="1" DescEnable="false" />			  
+		  </items_Right>
+		</TBReqCraft>
+		</items_Right>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="41354" ETrade="Count" value="6" DescEnable="false" />
+            <TBTrade _ItemID="21905" ETrade="Count" value="6" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="31951" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="16040" ETrade="Count" value="9" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="41355" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="32238" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="2271" ETrade="Count" value="5" DescEnable="false" />
+            <TBTrade _ItemID="14069" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="32238" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="32241" ETrade="Count" value="2" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="18281" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="7730" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="7729" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="7728" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="48793" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="54237" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="15231" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="54237" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="48773" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="44347" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="32228" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="13801" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="13023" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="13803" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="16110" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="47271" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="18100" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="16086" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="54237" ETrade="Count" value="2" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="31751" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="18110" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="33544" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="14317" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="16090" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="16091" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="33541" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="40726" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="16086" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="40725" ETrade="Count" value="1" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="32203" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="32202" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="17592" ETrade="Count" value="6" DescEnable="false" />
+          </items_Right>
+        </TBReqCraft>
+      </Baraholka>
+      <Upper>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="16167" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="15231" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="17026" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="18109" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="18100" ETrade="Count" value="2" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12167" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12167" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="40503" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="33527" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="17026" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="18109" ETrade="Count" value="3" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12168" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12168" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="16167" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="12005" ETrade="Count" value="5" DescEnable="false" />
+            <TBTrade _ItemID="4160" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="18110" ETrade="Count" value="5" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12169" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12169" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="18102" ETrade="Count" value="10" DescEnable="false" />
+            <TBTrade _ItemID="4150" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="21261" ETrade="Count" value="5" DescEnable="false" />
+            <TBTrade _ItemID="11509" ETrade="Count" value="2" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12170" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12170" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="40503" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="11510" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="54237" ETrade="Count" value="10" DescEnable="false" />
+            <TBTrade _ItemID="39541" ETrade="Count" value="1" DescEnable="true" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12161" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="19110" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="48773" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="18111" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="60140" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="18107" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12172" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12172" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="17023" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="18102" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="17026" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="18110" ETrade="Count" value="3" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12173" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12173" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="4161" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="12005" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="40503" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="21292" ETrade="Count" value="4" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12174" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12174" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="4155" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="11509" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="21261" ETrade="Count" value="5" DescEnable="false" />
+            <TBTrade _ItemID="18108" ETrade="Count" value="12" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12175" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="12175" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="54237" ETrade="Count" value="10" DescEnable="false" />
+            <TBTrade _ItemID="11513" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="40503" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="39541" ETrade="Count" value="1" DescEnable="true" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="12178" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="34020" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="12174" ETrade="Count" value="1" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="34722" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="18483" ETrade="Count" value="6" DescEnable="false" />
+            <TBTrade _ItemID="334" ETrade="Count" value="6" DescEnable="false" />
+            <TBTrade _ItemID="25145" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="11509" ETrade="Count" value="2" DescEnable="false" />
+            <TBTrade _ItemID="18110" ETrade="Count" value="10" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="54410" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+        <TBReqCraft>
+          <Group>default</Group>
+          <items_Left>
+            <TBTrade _ItemID="40504" ETrade="Count" value="10" DescEnable="false" />
+            <TBTrade _ItemID="44599" ETrade="Count" value="1" DescEnable="false" />
+            <TBTrade _ItemID="40503" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="11509" ETrade="Count" value="3" DescEnable="false" />
+            <TBTrade _ItemID="18110" ETrade="Count" value="2" DescEnable="false" />
+          </items_Left>
+          <items_Right>
+            <TBTrade _ItemID="54506" ETrade="Count" value="1" DescEnable="true" />
+          </items_Right>
+        </TBReqCraft>
+      </Upper>
+      <GroupList />
+    </TBaraholka>
+  </baraholkas>
+  <iconslocations>
+    <Iconslocation MinID="0" MaxID="10000" UrlPattern="https://untstrong.ru/static/game/0-10000/{0}.png" />
+    <Iconslocation MinID="10000" MaxID="19999" UrlPattern="https://untstrong.ru/static/game/10000-20000/{0}.png" />
+    <Iconslocation MinID="20000" MaxID="29999" UrlPattern="https://untstrong.ru/static/game/20000-30000/{0}.png" />
+    <Iconslocation MinID="30000" MaxID="39999" UrlPattern="https://untstrong.ru/static/game/30000-40000/{0}.png" />
+    <Iconslocation MinID="40000" MaxID="49999" UrlPattern="https://untstrong.ru/static/game/40000-50000/{0}.png" />
+    <Iconslocation MinID="50000" MaxID="59999" UrlPattern="https://untstrong.ru/static/game/50000-60000/{0}.png" />
+    <Iconslocation MinID="60000" MaxID="65535" UrlPattern="https://untstrong.ru/static/game/60000-65535/{0}.png" />
+  </iconslocations>
+  <RepairItems>
+    <unsignedShort>132</unsignedShort>
+  </RepairItems>
+</Config>
